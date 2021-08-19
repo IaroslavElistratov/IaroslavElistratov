@@ -6,7 +6,7 @@ Implemented from scratch:
 - YOLO, Redmon et al., 2015
 - Faster R-CNN, Ren et al., 2015
 - DenseCap, Johnson et al., 2015
-- Show, Attend and Tell, 2015
+- Show, Attend and Tell, Xu et al., 2015
 - LSTM, Hochreiter et al., 1997
 - GRU, Kyunghyun et al., 2014
 - RNN, Elman 1990

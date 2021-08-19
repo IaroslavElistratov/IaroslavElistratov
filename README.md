@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Implemented from scratch, inter alia:
+Implemented from scratch:
 - Attention Is All You Need, Vaswani et al., 2017
 - GAT, Veličković et al., 2017
 - YOLO, Redmon et al., 2015
@@ -12,6 +12,8 @@ Implemented from scratch, inter alia:
 - RNN, Elman 1990
 - Alex Net, Krizhevsky et al., 2012
 - GAN, Goodfellow et al., 2014
+
+Among other things :)
 
 <!--
 **IaroslavElistratov/IaroslavElistratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

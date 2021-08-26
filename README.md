@@ -7,9 +7,9 @@ Implemented from scratch:
 - Faster R-CNN, Ren et al., 2015
 - DenseCap, Johnson et al., 2015
 - Show, Attend and Tell, Xu et al., 2015
-- Alex Net, Krizhevsky et al., 2012
 - Pix2pix, Isola et al., 2016
 - GANs, Goodfellow et al., 2014
+- Alex Net, Krizhevsky et al., 2012
 - Unet, Ronneberger et al., 2015
 - LSTM, Hochreiter et al., 1997
 - GRU, Kyunghyun et al., 2014

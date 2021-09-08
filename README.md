@@ -3,8 +3,10 @@
 Implemented from scratch:
 - Attention Is All You Need, Vaswani et al., 2017
 - GAT, Veličković et al., 2017
-- YOLO, Redmon et al., 2015
 - Faster R-CNN, Ren et al., 2015
+- YOLO v3, Redmon et al., 2018
+- YOLO v2, Redmon et al., 2016
+- YOLO v1, Redmon et al., 2015
 - DenseCap, Johnson et al., 2015
 - Show, Attend and Tell, Xu et al., 2015
 - Pix2pix, Isola et al., 2016

@@ -4,6 +4,7 @@ Implemented from scratch:
 - Attention Is All You Need, Vaswani et al., 2017
 - GAT, Veličković et al., 2017
 - Faster R-CNN, Ren et al., 2015
+- Complex-YOLO, Simon et al., 2018
 - YOLO v3, Redmon et al., 2018
 - YOLO v2, Redmon et al., 2016
 - YOLO v1, Redmon et al., 2015

@@ -11,6 +11,7 @@ Implemented from scratch:
 - YOLO v2, Redmon et al., 2016
 - YOLO v1, Redmon et al., 2015
 - DenseCap, Johnson et al., 2015
+- Deep Residual Learning for Image Recognition, Kaiming He., 2015
 - Pix2pix, Isola et al., 2016
 - GANs, Goodfellow et al., 2014
 - Alex Net, Krizhevsky et al., 2012

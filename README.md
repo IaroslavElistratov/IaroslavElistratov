@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Implemented from scratch:
-- SPAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting, Casas et al., 2017
+- SPAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting, Casas et al., 2019
+- Show, Attend and Tell, Xu et al., 2015
 - Attention Is All You Need, Vaswani et al., 2017
 - GAT, Veličković et al., 2017
 - Faster R-CNN, Ren et al., 2015
@@ -10,7 +11,6 @@ Implemented from scratch:
 - YOLO v2, Redmon et al., 2016
 - YOLO v1, Redmon et al., 2015
 - DenseCap, Johnson et al., 2015
-- Show, Attend and Tell, Xu et al., 2015
 - Pix2pix, Isola et al., 2016
 - GANs, Goodfellow et al., 2014
 - Alex Net, Krizhevsky et al., 2012

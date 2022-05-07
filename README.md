@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Implemented from scratch:
+- SPAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting, Casas et al., 2017
 - Attention Is All You Need, Vaswani et al., 2017
 - GAT, Veličković et al., 2017
 - Faster R-CNN, Ren et al., 2015

@@ -5,7 +5,7 @@
 
 | **Venue**  	| **Lead author** 	  | **Method**    	| **Year** 	| **Primary field**               | **Secondary**              	  |
 |------------	|--------------------	|---------------	|----------	|--------------------------------	|------------------------------	|
-| NeurIPS     | Yes                	| Capsa         	| 2022     	| **risk estimation**           	| **robustness**          	    |
+| NeurIPS     | Yes                	| Capsa ([poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60370.png?t=1669871416.526991); [github](https://github.com/themis-ai/capsa))       	| 2022     	| **risk estimation**           	| **robustness**          	    |
 
 🚀 **Implemented from scratch**:
 

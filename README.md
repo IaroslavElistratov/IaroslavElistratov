@@ -1,6 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-Implemented from scratch:
+<!-- credit to: https://github.com/yzhao062/yzhao062 -->
+🔭 **Research outcomes**:
+
+| **Venue**  	| **Lead author** 	  | **Method**    	| **Year** 	| **Primary field**               | **Secondary**              	  |
+|------------	|--------------------	|---------------	|----------	|--------------------------------	|------------------------------	|
+| NeurIPS     | Yes                	| Capsa         	| 2022     	| **risk estimation**           	| **robustness**          	    |
+
+🚀 **Implemented from scratch**:
+
 - SPAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting, Casas et al., 2019
 - Show, Attend and Tell, Xu et al., 2015
 - Attention Is All You Need, Vaswani et al., 2017

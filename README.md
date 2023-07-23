@@ -5,7 +5,9 @@
 
 | **Venue**  	| **Authorship** 	        | **Method**    	| **Year** 	| **Primary field**               | **Secondary**              	  |
 |------------	|--------------------	|---------------	|----------	|--------------------------------	|------------------------------	|
-| NeurIPS     | co-first author    	| Capsa ([poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60370.png?t=1669871416.526991); [github](https://github.com/themis-ai/capsa))       	| 2022     	| **risk estimation**           	| **robustness**          	    |
+| NeurIPS     | co-first author    	| [Capsa: A Unified Framework for Quantifying Risk in Deep Neural Networks](https://openreview.net/forum?id=_BSowr-_ED) ([poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/60370.png?t=1669871416.526991); [github](https://github.com/themis-ai/capsa))       	| 2022     	| **risk estimation**           	| **robustness**          	    |
+| ICML     | co-author    	| [Risk-Aware Image Generation by Estimating and Propagating Uncertainty](https://openreview.net/forum?id=zzboa1TtNI)       	| 2023     	| **risk estimation**           	| **robustness**          	    |
+
 
 🚀 **Implemented from scratch**:
 
